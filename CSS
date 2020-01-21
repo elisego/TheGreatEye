@@ -1,0 +1,22 @@
+.col-1{
+    border: 1px solid #B3B9B9;
+    width: 50px;
+    height: 50px;
+
+}
+.container{
+    width: 630px;
+    height: 630px;
+}
+.black{
+    background-color: black;
+}
+.white{
+    background-color: transparent;
+}
+.orange{
+    background-color: #F37512;
+}
+.yellow{
+    background-color: #FEB100;
+}
